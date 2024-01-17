@@ -7,7 +7,7 @@ import axios from 'axios'
 const Formsi = () => {
  
   const [isLogin, setIsLogin] = useState(true);
-  const API= axios.create({baseURL:"http://localhost:4000/"})
+  const API= axios.create({baseURL:"https://zikarbyt.onrender.com"})
   const navigate =useNavigate() 
   const [errors,setErrors]=useState("")
   const [cont,setCont]=useState({})

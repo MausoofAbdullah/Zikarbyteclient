@@ -9,7 +9,7 @@ import { useNavigate } from 'react-router-dom'
 
 
 const Contentf = () => {
-  const API= axios.create({baseURL:"http://localhost:4000/"})
+  const API= axios.create({baseURL:"https://zikarbyt.onrender.com"})
   const navigate=useNavigate()
 const [ntoken,setNtoken]=useState("")
 const [codes,setCodes]=useState({})

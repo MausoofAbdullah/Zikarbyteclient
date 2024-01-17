@@ -8,7 +8,7 @@ const Main = () => {
     const [contents,setContents]=useState("")
 const [ntoken,setNtoken]=useState("")
 
-const API= axios.create({baseURL:"http://localhost:4000/"})
+const API= axios.create({baseURL:"https://zikarbyt.onrender.com"})
 
 useEffect(() => {
     const fetchData = async () => {
