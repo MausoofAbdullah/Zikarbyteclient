@@ -1,0 +1,12 @@
+.footingf{
+    display: flex;
+    justify-content: space-between;
+  
+}
+.leftf{
+  align-items: center;
+  margin-left: 20px;
+  justify-content: space-around;
+  display: flex;
+ 
+}

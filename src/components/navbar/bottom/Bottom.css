@@ -1,0 +1,72 @@
+.main{
+    display: flex;
+
+}
+.left{
+    flex: 50%;
+    align-items: center;
+   
+}
+.right{
+    flex: 50%;
+}
+
+.light{
+  color: var(--Colour-Main-Blue-900, #091133);
+  font-feature-settings: 'clig' off, 'liga' off;
+  /* Medium 50 */
+  font-family: Roboto;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 50px; /* 132% */
+  letter-spacing: 1px;
+/* margin-bottom: 30px; */
+
+ 
+}
+
+.lorem1{
+  color: var(--Colour-Main-Blue-500, #505F98);
+font-feature-settings: 'clig' off, 'liga' off;
+/* Regular 18 */
+font-family: Roboto;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px; /* 166.667% */
+margin-bottom: 40px;
+margin-top: 20px;
+
+}
+.fortext{
+    margin-top: 100px;
+}
+.bottom{
+    display: flex;
+}
+.bottomleft{
+    flex: 50%;
+
+}
+.bottomright{
+    flex:50%
+}
+.lightb{
+    color: var(--Colour-Main-Blue-900, #091133);
+    font-feature-settings: 'clig' off, 'liga' off;
+    /* Medium 50 */
+    font-family: Roboto;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 30px; /* 132% */
+    letter-spacing: 1px;
+  /* margin-bottom: 30px; */
+  
+}
+
+.undraw{
+    margin-top: 120px;
+    margin-right: 200px;
+}

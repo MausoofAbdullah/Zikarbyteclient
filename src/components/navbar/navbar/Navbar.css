@@ -1,0 +1,125 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.section-navbar-1-mKr {
+  box-sizing: border-box;
+  padding: 1.1rem 16.5rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #fbfbfd;
+}
+.section-navbar-1-mKr .landie-JKn {
+  margin-right: 52.5rem;
+  font-size: 2.6rem;
+  font-weight: 900;
+  line-height: 1.4615384615;
+  color: #2245e3;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  cursor: pointer;
+  
+}
+.section-navbar-1-mKr .home-q4p {
+  margin: 0.2rem 5rem 0rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.7142857143;
+  color: #929ecc;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  cursor: pointer;
+
+}
+.section-navbar-1-mKr .about-kxU {
+  margin: 0.2rem 5rem 0rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.7142857143;
+  color: #929ecc;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  cursor: pointer;
+
+}
+.section-navbar-1-mKr .products-gr8 {
+  margin: 0.2rem 5rem 0rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.7142857143;
+  color: #929ecc;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  cursor: pointer;
+
+}
+.section-navbar-1-mKr .contact-R32 {
+  margin: 0.2rem 5rem 0rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.7142857143;
+  color: #929ecc;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  cursor: pointer;
+ 
+
+}
+.home-q4p:hover,
+.contact-R32:hover,
+.products-gr8:hover, 
+.about-kxU:hover{
+    color: red;
+}
+.section-navbar-1-mKr .element-button-small-filled-9Up {
+  margin-top: 0.2rem;
+  width: 10.9rem;
+  height: 2.6rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #111b47;
+  border-radius: 0.2rem;
+  flex-shrink: 0;
+  cursor: pointer;
+
+}
+.element-button-small-filled-9Up:hover{
+    background: #0b259b;
+}
+.section-navbar-1-mKr .element-button-small-filled-9Up .element-button-small-filled-9Up-sub-0 {
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.section-navbar-1-mKr .element-button-small-filled-9Up .element-button-small-filled-9Up-sub-1 {
+}
